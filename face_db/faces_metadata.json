@@ -1,0 +1,44 @@
+[
+  {
+    "id": "Satish_Sir_Faculty",
+    "name": "Satish Sir",
+    "reg_no": "Faculty",
+    "photo": "Satish_Sir_Faculty_1792762800.jpg",
+    "created_at": "2026-10-23 19:10:00"
+  },
+  {
+    "id": "Santosh_192312043",
+    "name": "Santosh",
+    "reg_no": "192312043",
+    "photo": "Santosh_192312043_1792762801.jpg",
+    "created_at": "2026-10-23 19:10:01"
+  },
+  {
+    "id": "Puneeth_192312267",
+    "name": "Puneeth",
+    "reg_no": "192312267",
+    "photo": "Puneeth_192312267_1792762802.jpg",
+    "created_at": "2026-10-23 19:10:02"
+  },
+  {
+    "id": "Josh_Kumar_Sir_Faculty",
+    "name": "Josh Kumar Sir",
+    "reg_no": "Faculty",
+    "photo": "Josh_Kumar_Sir_Faculty_1792762803.jpg",
+    "created_at": "2026-10-23 19:10:03"
+  },
+  {
+    "id": "Marry_Mam_Faculty",
+    "name": "Marry Mam",
+    "reg_no": "Faculty",
+    "photo": "Marry_Mam_Faculty_1792762804.jpg",
+    "created_at": "2026-10-23 19:10:04"
+  },
+  {
+    "id": "Chakradhar_Peela_192412400",
+    "name": "Chakradhar Peela",
+    "reg_no": "192412400",
+    "photo": "Chakradhar_Peela_192412400_1792762804.jpg",
+    "created_at": "2026-10-23 19:10:04"
+  }
+]
